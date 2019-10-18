@@ -1,1 +1,136 @@
-<mxfile host="www.draw.io" modified="2019-10-18T08:37:21.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" version="12.1.3" etag="YT0V0KBZ9dzCbw5i-Wqh" type="github" pages="1"><diagram id="j_DKyDraICv1TuY0od3P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-18T08:52:07.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="vEgxK2rW61sBPs19ydZ3" version="12.1.3" type="github" pages="1">
+  <diagram id="j_DKyDraICv1TuY0od3P" name="Page-1">
+    <mxGraphModel dx="1451" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="1130" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-1" target="ySWC9bgOQIBlnzt1SsTP-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-1" value="Benefit item payment authorization step" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-2" target="ySWC9bgOQIBlnzt1SsTP-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-2" value="Benefit category authorization step" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-3" target="ySWC9bgOQIBlnzt1SsTP-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-3" value="File payment authorization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-10" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Benefit amount&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;0 - 19,999.99 THB&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="127" y="155" width="223" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-20" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim user&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="260" as="geometry">
+            <mxPoint x="6" y="-9" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-21" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim authorizator level 1&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="268" as="geometry">
+            <mxPoint x="10" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-22" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: verdana, sans-serif, garamond, verdana, tahoma, arial; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Claim Payment Information&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1070" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-25" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim authorizator level 1&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="264" as="geometry">
+            <mxPoint x="10" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="1130" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-28" target="ySWC9bgOQIBlnzt1SsTP-30">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-28" value="Benefit item payment authorization step" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-30" target="ySWC9bgOQIBlnzt1SsTP-32">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-30" value="Benefit category authorization step" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-32" target="ySWC9bgOQIBlnzt1SsTP-36">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-32" value="File payment authorization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-33" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Benefit amount&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;20,000.00 -  249,999.99 THB&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="127" y="455" width="353" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-34" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim user&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="560" as="geometry">
+            <mxPoint x="6" y="-9" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-35" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim authorizator level 1&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="568" as="geometry">
+            <mxPoint x="10" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-36" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif , &amp;#34;garamond&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 11px ; text-align: left ; background-color: rgb(255 , 255 , 255) ; font-weight: normal&quot;&gt;Claim Payment Information&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1070" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-37" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim authorizator level 2&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="564" as="geometry">
+            <mxPoint x="10" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="1130" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-40" target="ySWC9bgOQIBlnzt1SsTP-42">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-40" value="Benefit item payment authorization step" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-42" target="ySWC9bgOQIBlnzt1SsTP-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-42" value="Benefit category authorization step" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="ySWC9bgOQIBlnzt1SsTP-44" target="ySWC9bgOQIBlnzt1SsTP-48">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-44" value="File payment authorization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-45" value="&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Benefit amount&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;250,000.00 - 499,999.99&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&amp;nbsp;THB&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="127" y="755" width="353" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-46" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim user&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="860" as="geometry">
+            <mxPoint x="6" y="-9" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-47" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim authorizator level 1&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="868" as="geometry">
+            <mxPoint x="10" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-48" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , sans-serif , &amp;#34;garamond&amp;#34; , &amp;#34;verdana&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 11px ; text-align: left ; background-color: rgb(255 , 255 , 255) ; font-weight: normal&quot;&gt;Claim Payment Information&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1070" y="840" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ySWC9bgOQIBlnzt1SsTP-49" value="Approve&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[user &amp;gt;=&amp;nbsp;&lt;/font&gt;Claim authorizator level 3&lt;font style=&quot;font-size: 10px&quot;&gt;]&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="864" as="geometry">
+            <mxPoint x="10" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
