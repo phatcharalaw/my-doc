@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T05:03:57.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="LJx_5eDnE_3ZPwkP9G50" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T05:05:25.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="CkJxOXTS-xdpb9DGhM7j" version="12.3.0" type="github" pages="1">
   <diagram id="2hWmoD3ekcz67W5JECnx" name="Page-1">
     <mxGraphModel dx="1233" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,17 +74,18 @@
         <mxCell id="Wfk_m0UaRFvR2InnICNN-25" value="&lt;h1&gt;RI&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="70" y="10" width="190" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="Wfk_m0UaRFvR2InnICNN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-26" target="Wfk_m0UaRFvR2InnICNN-27">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1030" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wfk_m0UaRFvR2InnICNN-26" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="950" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="Wfk_m0UaRFvR2InnICNN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-27" target="Wfk_m0UaRFvR2InnICNN-28">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="Wfk_m0UaRFvR2InnICNN-27" value="earning pattern" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1030" width="100" height="40" as="geometry"/>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wfk_m0UaRFvR2InnICNN-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1070" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wfk_m0UaRFvR2InnICNN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-28" target="Wfk_m0UaRFvR2InnICNN-29">
           <mxGeometry relative="1" as="geometry"/>
@@ -110,8 +111,17 @@
         <mxCell id="Wfk_m0UaRFvR2InnICNN-38" value="evaluate earning pattern date start &amp;amp; end" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="1350" width="280" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-41" target="Wfk_m0UaRFvR2InnICNN-43">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Wfk_m0UaRFvR2InnICNN-41" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Ratio Condition&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IF incomeRecordedDateWindowEnd &amp;lt; earningPatternDateStart&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;--&amp;gt; Ratio = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IF ELSE incomeRecordedDateWindowEnd &amp;gt; earningPatternDateEnd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;--&amp;gt; Ratio = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ELSE calculate Ratio by using formula from eraning patter&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="220" y="1430" width="400" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;align=left;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1600" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-46" value="&lt;span style=&quot;white-space: normal;&quot;&gt;earning pattern&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;align=center;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1030" width="130" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
