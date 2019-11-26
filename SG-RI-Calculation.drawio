@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T05:03:40.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="67I9GizZQDrY_XiXoO9i" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T05:03:49.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Pzy-Y57Fmz9WPRCZGBm2" version="12.3.0" type="github" pages="1">
   <diagram id="2hWmoD3ekcz67W5JECnx" name="Page-1">
     <mxGraphModel dx="1233" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           <mxGeometry x="280" y="1350" width="280" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Wfk_m0UaRFvR2InnICNN-41" value="&lt;div&gt;&lt;span&gt;Ratio Condition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IF incomeRecordedDateWindowEnd &amp;lt; earningPatternDateStart&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;--&amp;gt; Ratio = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IF ELSE incomeRecordedDateWindowEnd &amp;gt; earningPatternDateEnd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;--&amp;gt; Ratio = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ELSE calculate Ratio by using formula from eraning patter&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="200" y="1430" width="440" height="120" as="geometry"/>
+          <mxGeometry x="220" y="1430" width="400" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
