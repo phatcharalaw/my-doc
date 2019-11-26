@@ -1,1 +1,119 @@
-<mxfile host="www.draw.io" modified="2019-11-26T03:34:26.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.3.0" etag="21Z58dQ0E9eXSIfrKixz" type="github" pages="1"><diagram id="2hWmoD3ekcz67W5JECnx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-26T05:03:40.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="67I9GizZQDrY_XiXoO9i" version="12.3.0" type="github" pages="1">
+  <diagram id="2hWmoD3ekcz67W5JECnx" name="Page-1">
+    <mxGraphModel dx="1233" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-2" target="Wfk_m0UaRFvR2InnICNN-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-2" value="Retrieve Policy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-5" target="Wfk_m0UaRFvR2InnICNN-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-5" value="Policy" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-6" target="Wfk_m0UaRFvR2InnICNN-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-6" value="get product rider combination from policy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="260" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-7" target="Wfk_m0UaRFvR2InnICNN-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-7" value="get assigned earning pattern from product rider combination" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-8" target="Wfk_m0UaRFvR2InnICNN-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-8" value="Calculate earning Pattern ratio of each earning Pattern" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-9" target="Wfk_m0UaRFvR2InnICNN-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-9" value="Calculate un-earn" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="490" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <UserObject label="un earn GWP + = ((policy.getPremiumWithoutTaxStam * earningPattern.percentage) / 100.0d)* (1 - earningRatio )" link="&lt;!--&#xa; /* Font Definitions */&#xa; @font-face&#xa;	{font-family:&quot;Cordia New&quot;;&#xa;	panose-1:2 11 3 4 2 2 2 2 2 4;&#xa;	mso-font-alt:&quot;Arial Unicode MS&quot;;&#xa;	mso-font-charset:222;&#xa;	mso-generic-font-family:roman;&#xa;	mso-font-format:other;&#xa;	mso-font-pitch:variable;&#xa;	mso-font-signature:16777219 0 0 0 65537 0;}&#xa;@font-face&#xa;	{font-family:&quot;Cordia New&quot;;&#xa;	panose-1:2 11 3 4 2 2 2 2 2 4;&#xa;	mso-font-alt:&quot;Arial Unicode MS&quot;;&#xa;	mso-font-charset:222;&#xa;	mso-generic-font-family:roman;&#xa;	mso-font-format:other;&#xa;	mso-font-pitch:variable;&#xa;	mso-font-signature:16777219 0 0 0 65537 0;}&#xa;@font-face&#xa;	{font-family:Calibri;&#xa;	panose-1:2 15 5 2 2 2 4 3 2 4;&#xa;	mso-font-alt:&quot;Arial Rounded MT Bold&quot;;&#xa;	mso-font-charset:0;&#xa;	mso-generic-font-family:swiss;&#xa;	mso-font-pitch:variable;&#xa;	mso-font-signature:-536859905 -1073732485 9 0 511 0;}&#xa; /* Style Definitions */&#xa; p.MsoNormal, li.MsoNormal, div.MsoNormal&#xa;	{mso-style-unhide:no;&#xa;	mso-style-qformat:yes;&#xa;	mso-style-parent:&quot;&quot;;&#xa;	margin:0in;&#xa;	margin-bottom:.0001pt;&#xa;	mso-pagination:widow-orphan;&#xa;	font-size:11.0pt;&#xa;	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;&#xa;	mso-ascii-font-family:Calibri;&#xa;	mso-ascii-theme-font:minor-latin;&#xa;	mso-fareast-font-family:Calibri;&#xa;	mso-fareast-theme-font:minor-latin;&#xa;	mso-hansi-font-family:Calibri;&#xa;	mso-hansi-theme-font:minor-latin;&#xa;	mso-bidi-font-family:&quot;Cordia New&quot;;&#xa;	mso-bidi-theme-font:minor-bidi;&#xa;	mso-bidi-language:AR-SA;}&#xa;span.EmailStyle15&#xa;	{mso-style-type:personal;&#xa;	mso-style-noshow:yes;&#xa;	mso-style-unhide:no;&#xa;	mso-ansi-font-size:11.0pt;&#xa;	mso-bidi-font-size:11.0pt;&#xa;	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;&#xa;	mso-ascii-font-family:Calibri;&#xa;	mso-ascii-theme-font:minor-latin;&#xa;	mso-fareast-font-family:Calibri;&#xa;	mso-fareast-theme-font:minor-latin;&#xa;	mso-hansi-font-family:Calibri;&#xa;	mso-hansi-theme-font:minor-latin;&#xa;	mso-bidi-font-family:&quot;Cordia New&quot;;&#xa;	mso-bidi-theme-font:minor-bidi;&#xa;	color:windowtext;}&#xa;.MsoChpDefault&#xa;	{mso-style-type:export-only;&#xa;	mso-default-props:yes;&#xa;	mso-bidi-font-size:11.0pt;&#xa;	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;&#xa;	mso-ascii-font-family:Calibri;&#xa;	mso-ascii-theme-font:minor-latin;&#xa;	mso-fareast-font-family:Calibri;&#xa;	mso-fareast-theme-font:minor-latin;&#xa;	mso-hansi-font-family:Calibri;&#xa;	mso-hansi-theme-font:minor-latin;&#xa;	mso-bidi-font-family:&quot;Cordia New&quot;;&#xa;	mso-bidi-theme-font:minor-bidi;&#xa;	mso-bidi-language:AR-SA;}&#xa;@page WordSection1&#xa;	{size:8.5in 11.0in;&#xa;	margin:1.0in 1.0in 1.0in 1.0in;&#xa;	mso-header-margin:.5in;&#xa;	mso-footer-margin:.5in;&#xa;	mso-paper-source:0;}&#xa;div.WordSection1&#xa;	{page:WordSection1;}&#xa; /* List Definitions */&#xa; @list l0&#xa;	{mso-list-id:1015108780;&#xa;	mso-list-template-ids:900334242;}&#xa;ol&#xa;	{margin-bottom:0in;}&#xa;ul&#xa;	{margin-bottom:0in;}&#xa;--&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa; &#xa;  un earn GWP + =&#xa;      ((policy.getPremiumWithoutTaxStam * earningPattern.percentage) / 100.0d)&#xa;      * (1 - earningRatio )" id="Wfk_m0UaRFvR2InnICNN-10">
+          <mxCell style="text;html=1;" vertex="1" parent="1">
+            <mxGeometry x="500" y="480" width="800" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="other un earn += ((policy.Arrangement fee value * earningPattern.percentage) / 100.0d) * (1 - earningRatio )" link="&lt;!--&#xa; /* Font Definitions */&#xa; @font-face&#xa;	{font-family:&quot;Cordia New&quot;;&#xa;	panose-1:2 11 3 4 2 2 2 2 2 4;&#xa;	mso-font-alt:&quot;Arial Unicode MS&quot;;&#xa;	mso-font-charset:222;&#xa;	mso-generic-font-family:roman;&#xa;	mso-font-format:other;&#xa;	mso-font-pitch:variable;&#xa;	mso-font-signature:16777219 0 0 0 65537 0;}&#xa;@font-face&#xa;	{font-family:&quot;Cordia New&quot;;&#xa;	panose-1:2 11 3 4 2 2 2 2 2 4;&#xa;	mso-font-alt:&quot;Arial Unicode MS&quot;;&#xa;	mso-font-charset:222;&#xa;	mso-generic-font-family:roman;&#xa;	mso-font-format:other;&#xa;	mso-font-pitch:variable;&#xa;	mso-font-signature:16777219 0 0 0 65537 0;}&#xa;@font-face&#xa;	{font-family:Calibri;&#xa;	panose-1:2 15 5 2 2 2 4 3 2 4;&#xa;	mso-font-alt:&quot;Arial Rounded MT Bold&quot;;&#xa;	mso-font-charset:0;&#xa;	mso-generic-font-family:swiss;&#xa;	mso-font-pitch:variable;&#xa;	mso-font-signature:-536859905 -1073732485 9 0 511 0;}&#xa; /* Style Definitions */&#xa; p.MsoNormal, li.MsoNormal, div.MsoNormal&#xa;	{mso-style-unhide:no;&#xa;	mso-style-qformat:yes;&#xa;	mso-style-parent:&quot;&quot;;&#xa;	margin:0in;&#xa;	margin-bottom:.0001pt;&#xa;	mso-pagination:widow-orphan;&#xa;	font-size:11.0pt;&#xa;	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;&#xa;	mso-ascii-font-family:Calibri;&#xa;	mso-ascii-theme-font:minor-latin;&#xa;	mso-fareast-font-family:Calibri;&#xa;	mso-fareast-theme-font:minor-latin;&#xa;	mso-hansi-font-family:Calibri;&#xa;	mso-hansi-theme-font:minor-latin;&#xa;	mso-bidi-font-family:&quot;Cordia New&quot;;&#xa;	mso-bidi-theme-font:minor-bidi;&#xa;	mso-bidi-language:AR-SA;}&#xa;span.EmailStyle15&#xa;	{mso-style-type:personal;&#xa;	mso-style-noshow:yes;&#xa;	mso-style-unhide:no;&#xa;	mso-ansi-font-size:11.0pt;&#xa;	mso-bidi-font-size:11.0pt;&#xa;	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;&#xa;	mso-ascii-font-family:Calibri;&#xa;	mso-ascii-theme-font:minor-latin;&#xa;	mso-fareast-font-family:Calibri;&#xa;	mso-fareast-theme-font:minor-latin;&#xa;	mso-hansi-font-family:Calibri;&#xa;	mso-hansi-theme-font:minor-latin;&#xa;	mso-bidi-font-family:&quot;Cordia New&quot;;&#xa;	mso-bidi-theme-font:minor-bidi;&#xa;	color:windowtext;}&#xa;.MsoChpDefault&#xa;	{mso-style-type:export-only;&#xa;	mso-default-props:yes;&#xa;	mso-bidi-font-size:11.0pt;&#xa;	font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;&#xa;	mso-ascii-font-family:Calibri;&#xa;	mso-ascii-theme-font:minor-latin;&#xa;	mso-fareast-font-family:Calibri;&#xa;	mso-fareast-theme-font:minor-latin;&#xa;	mso-hansi-font-family:Calibri;&#xa;	mso-hansi-theme-font:minor-latin;&#xa;	mso-bidi-font-family:&quot;Cordia New&quot;;&#xa;	mso-bidi-theme-font:minor-bidi;&#xa;	mso-bidi-language:AR-SA;}&#xa;@page WordSection1&#xa;	{size:8.5in 11.0in;&#xa;	margin:1.0in 1.0in 1.0in 1.0in;&#xa;	mso-header-margin:.5in;&#xa;	mso-footer-margin:.5in;&#xa;	mso-paper-source:0;}&#xa;div.WordSection1&#xa;	{page:WordSection1;}&#xa;--&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;other un earn += ((policy.Arrangement fee value *&#xa;earningPattern.percentage) / 100.0d) * (1 - earningRatio )" id="Wfk_m0UaRFvR2InnICNN-11">
+          <mxCell style="text;html=1;" vertex="1" parent="1">
+            <mxGeometry x="500" y="510" width="870" height="30" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-12" target="Wfk_m0UaRFvR2InnICNN-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-12" value="Calculate earn" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355" y="570" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-13" value="earn =&amp;nbsp;&lt;span style=&quot;white-space: nowrap&quot;&gt;policy.Arrangement fee value -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;un earn&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="580" width="450" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;align=left;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="660" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-15" target="Wfk_m0UaRFvR2InnICNN-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-15" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-24" value="&lt;h1&gt;Earning ratio&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="920" width="190" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-25" value="&lt;h1&gt;RI&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="190" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-26" target="Wfk_m0UaRFvR2InnICNN-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-26" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="950" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-27" target="Wfk_m0UaRFvR2InnICNN-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-27" value="earning pattern" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1030" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-28" target="Wfk_m0UaRFvR2InnICNN-29">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-28" value="get &lt;b&gt;date end expression&lt;/b&gt; from earning pattern" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1110" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-29" target="Wfk_m0UaRFvR2InnICNN-34">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-29" value="get &lt;b&gt;date start expression&lt;/b&gt; from earning pattern" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1190" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-34" target="Wfk_m0UaRFvR2InnICNN-38">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-34" value="prepare parameter for evaluate expression" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1270" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wfk_m0UaRFvR2InnICNN-38" target="Wfk_m0UaRFvR2InnICNN-41">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-38" value="evaluate earning pattern date start &amp;amp; end" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1350" width="280" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wfk_m0UaRFvR2InnICNN-41" value="&lt;div&gt;&lt;span&gt;Ratio Condition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IF incomeRecordedDateWindowEnd &amp;lt; earningPatternDateStart&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;--&amp;gt; Ratio = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IF ELSE incomeRecordedDateWindowEnd &amp;gt; earningPatternDateEnd&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;--&amp;gt; Ratio = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ELSE calculate Ratio by using formula from eraning patter&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="200" y="1430" width="440" height="120" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
