@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-05-29T07:32:59.533Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" version="13.1.6" etag="pVqAOoQw7I964mzcc1p5" type="github"><diagram id="C5HNDQXv8no6rYEC_CkG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-31T14:50:35.771Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="bjGkGL7VkQtuSdxVso7k" version="13.1.6" type="github">
+  <diagram id="C5HNDQXv8no6rYEC_CkG" name="Page-1">
+    <mxGraphModel dx="1414" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EJOH6y6XxS1806s4NGWn-1" value="import currency = location currency" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-2" value="Agency conversion method =&amp;nbsp;&lt;br&gt;USE_CONVERSION" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="230" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
