@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T02:08:05.614Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="ESqoQrFMrUK2TCJbduZw" version="13.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T02:35:49.937Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="E3hIAwLoEYvWQhahxgCd" version="13.1.6" type="github">
   <diagram id="C5HNDQXv8no6rYEC_CkG" name="Page-1">
     <mxGraphModel dx="2264" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,13 +7,16 @@
         <mxCell id="EJOH6y6XxS1806s4NGWn-4" value="No" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-1" target="EJOH6y6XxS1806s4NGWn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-16" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-1" target="EJOH6y6XxS1806s4NGWn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EJOH6y6XxS1806s4NGWn-1" value="import currency equal location currency" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EJOH6y6XxS1806s4NGWn-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-2" target="EJOH6y6XxS1806s4NGWn-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="15" y="285" />
+              <mxPoint x="-145" y="295" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -21,13 +24,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJOH6y6XxS1806s4NGWn-2" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Agency contract&amp;nbsp;Multi Currency Options =&amp;nbsp;&lt;br&gt;USE_CONVERSION&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="230" height="90" as="geometry" />
+          <mxGeometry x="-70" y="250" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-10" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-3" target="EJOH6y6XxS1806s4NGWn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-12" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-3" target="EJOH6y6XxS1806s4NGWn-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJOH6y6XxS1806s4NGWn-3" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Agency contract&amp;nbsp;Multi Currency Options&amp;nbsp;=&amp;nbsp;&lt;br&gt;NEW_QUOTATION&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="410" width="230" height="90" as="geometry" />
+          <mxGeometry x="-260" y="420" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EJOH6y6XxS1806s4NGWn-7" value="Calculate premium with tax by using forex exchange rate from agency/location setting" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="335" y="360" width="160" height="60" as="geometry" />
+        <mxCell id="EJOH6y6XxS1806s4NGWn-7" value="Calculate premium with tax by using &lt;b&gt;forex exchange rate from agency/location setting.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="175" y="370" width="186.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-9" value="Calculate premium with tax by using &lt;b&gt;pricing line and riders value from product setting.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-11.670000000000016" y="525" width="186.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-11" value="&lt;b&gt;Ignore policy&lt;/b&gt;&amp;nbsp;&lt;br&gt;** Cannot identify&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Agency contract&amp;nbsp;Multi Currency Options&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="525" width="186.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-18" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-15" target="EJOH6y6XxS1806s4NGWn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EJOH6y6XxS1806s4NGWn-15" target="EJOH6y6XxS1806s4NGWn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-15" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Agency contract&amp;nbsp;Multi Currency Options&amp;nbsp;=&amp;nbsp;&lt;br&gt;NEW_QUOTATION&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-17" value="Use original premium from MO_POLICY" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="186.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EJOH6y6XxS1806s4NGWn-19" value="Calculate premium with tax by using &lt;b&gt;pricing line and riders value from product setting.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="930" y="370" width="186.67" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
