@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T07:21:41.761Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="OWzWeT5QZaoRjjKjR5Lj" version="13.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T07:23:08.961Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="4zBntGVtQwQ_ForykMvb" version="13.1.11" type="github">
   <diagram id="5H4GtqOblpuFAJJGGeLC" name="Page-1">
     <mxGraphModel dx="1825" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -547,7 +547,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m6HCsvljiJrXlp6-vdPD-145" value=":SalesReportTaskWorker" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="2870" width="170" height="490" as="geometry" />
+          <mxGeometry x="-130" y="2870" width="170" height="550" as="geometry" />
         </mxCell>
         <mxCell id="m6HCsvljiJrXlp6-vdPD-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="m6HCsvljiJrXlp6-vdPD-146" target="m6HCsvljiJrXlp6-vdPD-159">
           <mxGeometry relative="1" as="geometry">
@@ -610,13 +610,26 @@
             <mxPoint x="40" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m6HCsvljiJrXlp6-vdPD-167" value="&lt;meta charset=&quot;utf-8&quot;&gt;&#xa;&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="m6HCsvljiJrXlp6-vdPD-145" target="m6HCsvljiJrXlp6-vdPD-145">
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-167" value="Update file path to task detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="m6HCsvljiJrXlp6-vdPD-145" target="m6HCsvljiJrXlp6-vdPD-145">
           <mxGeometry x="0.2659" y="-45" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="10" y="3250" />
               <mxPoint y="3290" />
             </Array>
             <mxPoint x="40" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="m6HCsvljiJrXlp6-vdPD-145" target="m6HCsvljiJrXlp6-vdPD-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="3340" />
+              <mxPoint x="-20" y="3380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-169" value="Update task status&amp;nbsp; Success / Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m6HCsvljiJrXlp6-vdPD-168">
+          <mxGeometry x="0.0853" y="-2" relative="1" as="geometry">
+            <mxPoint x="51.97" y="-6.16" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
