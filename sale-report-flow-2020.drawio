@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T07:23:43.590Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="lGwDFBtn_C1iyxKErdCa" version="13.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T07:26:08.121Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Z1y0lt7qTG9Kdb7OVt2H" version="13.1.11" type="github">
   <diagram id="5H4GtqOblpuFAJJGGeLC" name="Page-1">
-    <mxGraphModel dx="3207" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-170" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="2680" width="1030" height="780" as="geometry" />
+        </mxCell>
         <mxCell id="m6HCsvljiJrXlp6-vdPD-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="-340" y="-50" width="2770" height="810" as="geometry" />
         </mxCell>
@@ -260,7 +263,7 @@
             <mxPoint x="1900" y="1330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1764" y="1310" />
-              <mxPoint x="1764" y="1360" />
+              <mxPoint x="1764" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -269,14 +272,24 @@
             <mxPoint y="-10.28" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="m6HCsvljiJrXlp6-vdPD-48" target="m6HCsvljiJrXlp6-vdPD-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="1370" />
+              <mxPoint x="1880" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-172" value="Invoke task worker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m6HCsvljiJrXlp6-vdPD-171">
+          <mxGeometry x="0.1132" y="-1" relative="1" as="geometry">
+            <mxPoint x="44.89" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m6HCsvljiJrXlp6-vdPD-48" value=":SalesReportTaskManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1573.78" y="1090" width="170" height="480" as="geometry" />
         </mxCell>
         <mxCell id="m6HCsvljiJrXlp6-vdPD-49" value=":SalesReportTaskWorker" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1873.78" y="1090" width="170" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="m6HCsvljiJrXlp6-vdPD-50" value=":SaleReportService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2213.78" y="1090" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="m6HCsvljiJrXlp6-vdPD-51" value="Export report file" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1" target="m6HCsvljiJrXlp6-vdPD-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -632,8 +645,8 @@
             <mxPoint x="51.97" y="-6.16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m6HCsvljiJrXlp6-vdPD-170" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="2680" width="1030" height="780" as="geometry" />
+        <mxCell id="m6HCsvljiJrXlp6-vdPD-173" value="More detail in&amp;nbsp;&lt;span style=&quot;font-weight: 700&quot;&gt;ฺBackground generate report&lt;/span&gt;&lt;br&gt;&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=3;align=left;position2=0.5;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1270" width="156.22" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
