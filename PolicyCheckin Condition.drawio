@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-07-07T03:02:19.285Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="CkbmZUPVEJQe94aiznSa" version="13.3.6" type="github">
+<mxfile host="www.draw.io" modified="2020-07-07T03:03:16.458Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Ms1RNDGw6e3Xl-BKdI1f" version="13.3.6" type="github">
   <diagram id="vnzw8bJyzcfGwnLZNMbN" name="Page-1">
-    <mxGraphModel dx="975" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="llFSsDkDVZEDRW2Oa7an-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-27" target="llFSsDkDVZEDRW2Oa7an-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="llFSsDkDVZEDRW2Oa7an-27" value="Find Product Variant ID from agencyContractValuesOverriding (***China only)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="llFSsDkDVZEDRW2Oa7an-27" value="Find Product Variant ID from agencyContractValuesOverriding (***China only, for promo code --&amp;nbsp;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; background-color: rgb(43 , 43 , 43) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 9pt&quot;&gt;SCBSTAFF&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="1339.71" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-29" target="llFSsDkDVZEDRW2Oa7an-32" edge="1">
