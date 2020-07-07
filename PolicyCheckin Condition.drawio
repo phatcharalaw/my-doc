@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-07-07T03:13:45.055Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="AxbZmYrVuTsaUli5p-pB" version="13.3.6" type="github">
+<mxfile host="www.draw.io" modified="2020-07-07T04:09:43.682Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="F51V9iF0jl87HQadzj3B" version="13.3.6" type="github">
   <diagram id="vnzw8bJyzcfGwnLZNMbN" name="Page-1">
-    <mxGraphModel dx="1664" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3045" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,25 +101,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-25" value="Check policy has promotion code" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1180" width="160" height="50" as="geometry" />
+          <mxGeometry x="320" y="1130" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-27" target="llFSsDkDVZEDRW2Oa7an-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-27" value="Find Product Variant ID from agencyContractValuesOverriding (***China only, for promo code --&amp;nbsp;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; background-color: rgb(43 , 43 , 43) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 9pt&quot;&gt;SCBSTAFF&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="1339.71" width="195" height="70" as="geometry" />
+          <mxGeometry x="170" y="1289.71" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-29" target="llFSsDkDVZEDRW2Oa7an-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-29" value="Product Variant ID =&amp;nbsp;ProductVariantBUReference from emargin xml" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="415" y="1339.71" width="195" height="70" as="geometry" />
+          <mxGeometry x="415" y="1289.71" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-32" target="llFSsDkDVZEDRW2Oa7an-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="398" y="1589.71" />
-              <mxPoint x="218" y="1589.71" />
+              <mxPoint x="398" y="1539.71" />
+              <mxPoint x="218" y="1539.71" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -128,39 +128,26 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="llFSsDkDVZEDRW2Oa7an-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-32" target="llFSsDkDVZEDRW2Oa7an-43" edge="1">
+        <mxCell id="n741ubfPJ3tw46yTXTQa-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="llFSsDkDVZEDRW2Oa7an-32" target="n741ubfPJ3tw46yTXTQa-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-32" value="Find AgencyContractExtCode by Product Variant ID&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1479.71" width="195" height="50" as="geometry" />
+          <mxGeometry x="300" y="1429.71" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-36" target="llFSsDkDVZEDRW2Oa7an-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-36" value="&lt;div&gt;select * from agency_contract ac&amp;nbsp;&lt;/div&gt;&lt;div&gt;join contract_ext_code cext on cext.agencyContract&amp;nbsp; = ac.id&amp;nbsp;&lt;/div&gt;&lt;div&gt;where cext.code = {Product Variant ID}&lt;/div&gt;&lt;div&gt;and cext.`type` = {Loading Tool ex.&amp;nbsp; EMAGIN_MO....}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1449.71" width="380" height="80" as="geometry" />
+          <mxGeometry x="570" y="1399.71" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-39" value="ERROR: Agency contract code not found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1639.71" width="155" height="40" as="geometry" />
+          <mxGeometry x="140" y="1589.71" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="llFSsDkDVZEDRW2Oa7an-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="llFSsDkDVZEDRW2Oa7an-43" target="llFSsDkDVZEDRW2Oa7an-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="398" y="1769.71" />
-              <mxPoint x="208" y="1769.71" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="llFSsDkDVZEDRW2Oa7an-47" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;current product not found&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="llFSsDkDVZEDRW2Oa7an-46" vertex="1" connectable="0">
-          <mxGeometry x="0.3846" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="llFSsDkDVZEDRW2Oa7an-43" value="Find current product" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="332.5" y="1689.71" width="130" height="40" as="geometry" />
+        <mxCell id="llFSsDkDVZEDRW2Oa7an-43" value="Find current product" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="2100" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="llFSsDkDVZEDRW2Oa7an-45" value="ERROR: Can not insert the policy ,because current product not found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1819.71" width="155" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1795" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n741ubfPJ3tw46yTXTQa-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="llFSsDkDVZEDRW2Oa7an-48" target="llFSsDkDVZEDRW2Oa7an-25">
           <mxGeometry relative="1" as="geometry" />
@@ -170,6 +157,88 @@
         </mxCell>
         <mxCell id="n741ubfPJ3tw46yTXTQa-3" value="&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 9.0pt&quot;&gt;&lt;span style=&quot;background-color: #344134&quot;&gt;PolicyCheckInServiceImpl.persistMOPolicy&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="1025" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-9" value="mo policy currency != location currency" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-4" target="n741ubfPJ3tw46yTXTQa-6">
+          <mxGeometry x="0.7652" y="-22" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="1740" />
+              <mxPoint x="242" y="1740" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-4" target="n741ubfPJ3tw46yTXTQa-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="1730" />
+              <mxPoint x="530" y="1730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-4" value="Pricing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-6" target="n741ubfPJ3tw46yTXTQa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-6" target="n741ubfPJ3tw46yTXTQa-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-6" target="n741ubfPJ3tw46yTXTQa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-6" value="Convert premium rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1800" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-7" value="Pricing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-11" target="n741ubfPJ3tw46yTXTQa-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-11" target="n741ubfPJ3tw46yTXTQa-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="2040" />
+              <mxPoint x="-322" y="2040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-11" value="Get forex exchange rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="1960" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;conversion method = USE CONVERSION&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="1910" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-17" target="n741ubfPJ3tw46yTXTQa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-17" value="table =&amp;nbsp;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: center&quot;&gt;foreign_exchange&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1970" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-19" value="Convert new premium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-172.5" y="2100" width="125" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-22" target="llFSsDkDVZEDRW2Oa7an-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-22" value="Get forex exchange rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1960" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;conversion method = NEW_QUOTATION&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1910" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-25" value="ERROR: Currency not found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="2100" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-28" value="Cannot find forex exchange rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-350" y="2069.9952941176466" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-31" value="ERROR: Unsupported conversion method" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1970" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n741ubfPJ3tw46yTXTQa-35" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;conversion method = NOTHING&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1930" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
