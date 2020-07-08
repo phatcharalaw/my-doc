@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-07-05T11:05:07.274Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="p8gdchCamYbt0899gSnl" version="13.3.6" type="github">
+<mxfile host="www.draw.io" modified="2020-07-08T03:28:12.184Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="UoWn84qi91rzw0ymfwZ0" version="13.3.6" type="github">
   <diagram id="EsiJSBqeMG2chazUbQkp" name="Page-1">
-    <mxGraphModel dx="2264" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2264" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,73 +290,69 @@
         <mxCell id="PxB15ZGeAeihP2ugx8_E-104" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="340" y="2820" width="610" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-105" value="Enable task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-126" target="PxB15ZGeAeihP2ugx8_E-108">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="2980" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="570" y="2965" />
-              <mxPoint x="570" y="2965" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-108" target="PxB15ZGeAeihP2ugx8_E-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-108" target="PxB15ZGeAeihP2ugx8_E-119">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-108" value="Renewal service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="2950" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="2950" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-109" value="POLICY" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="3190" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-112" value="1Pay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="625" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-114" value="Renewal task" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="3190" width="80" height="50" as="geometry" />
+          <mxGeometry x="640" y="3190" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-119">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="2690" as="targetPoint" />
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-137" value="Payment order" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.983;entryDx=0;entryDy=0;strokeColor=#0000FF;entryPerimeter=0;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-119" target="PxB15ZGeAeihP2ugx8_E-112">
+          <mxGeometry x="0.2308" y="-25" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="2690" />
+              <mxPoint x="680" y="2730" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-116" value="Payment order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PxB15ZGeAeihP2ugx8_E-115">
-          <mxGeometry x="-0.6923" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-119" value="1Pay service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="2950" width="170" height="60" as="geometry" />
+          <mxGeometry x="600" y="2860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-120" value="FN3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="340" y="2790" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-124" value="make payment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-126" target="PxB15ZGeAeihP2ugx8_E-108">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="2995" />
-              <mxPoint x="530" y="2995" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-126" target="PxB15ZGeAeihP2ugx8_E-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-126" value="Policy service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="2950" width="120" height="60" as="geometry" />
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-130" value="create task" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-126" target="PxB15ZGeAeihP2ugx8_E-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="2980" />
+              <mxPoint x="530" y="2980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PxB15ZGeAeihP2ugx8_E-127" value="Re-subscribe policy&lt;br&gt;(within renew period )" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-128" target="PxB15ZGeAeihP2ugx8_E-126">
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-126" value="Policy service" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2860" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-127" value="Re-subscribe policy&lt;br&gt;(within renew period )" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-128">
           <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint x="380" y="2980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="2980" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PxB15ZGeAeihP2ugx8_E-128" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="2960" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="PxB15ZGeAeihP2ugx8_E-131" target="PxB15ZGeAeihP2ugx8_E-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-131" value="make payment" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2900" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PxB15ZGeAeihP2ugx8_E-133" value="issue new policy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2940" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
