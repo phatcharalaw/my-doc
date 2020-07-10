@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-10T06:54:59.929Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="6mbeTFKm66J8W15fMdcW" version="13.3.6" type="github">
+<mxfile host="www.draw.io" modified="2020-07-10T06:56:10.465Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="edtj7US5LuU_MV_z_5m9" version="13.3.6" type="github">
   <diagram id="vnzw8bJyzcfGwnLZNMbN" name="Page-1">
     <mxGraphModel dx="2264" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
         <mxCell id="n741ubfPJ3tw46yTXTQa-77" value="Fronter validation (depend on fronter setting )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334.5" y="2810" width="125" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="n741ubfPJ3tw46yTXTQa-79" value="Set fronter validation status: OK, IGNORE, JEJECT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n741ubfPJ3tw46yTXTQa-79" value="Stamp fronter validation status: OK, IGNORE, JEJECT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.25" y="2920" width="165.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="n741ubfPJ3tw46yTXTQa-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-81" target="n741ubfPJ3tw46yTXTQa-84">
