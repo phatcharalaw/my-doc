@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-10T06:51:37.490Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uNpXKFTzlkzt_BKpOtvo" version="13.3.6" type="github">
+<mxfile host="www.draw.io" modified="2020-07-10T06:54:13.023Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="45VagufpUaNIPyvAzIp-" version="13.3.6" type="github">
   <diagram id="vnzw8bJyzcfGwnLZNMbN" name="Page-1">
     <mxGraphModel dx="2264" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="n741ubfPJ3tw46yTXTQa-44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1100" width="1060" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="n741ubfPJ3tw46yTXTQa-45" value="Policy with promotion code" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-48" target="n741ubfPJ3tw46yTXTQa-50">
+        <mxCell id="n741ubfPJ3tw46yTXTQa-45" value="Policy with promotion code =&amp;nbsp;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 12px ; background-color: rgb(43 , 43 , 43)&quot;&gt;SCBSTAFF&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-48" target="n741ubfPJ3tw46yTXTQa-50">
           <mxGeometry x="0.6842" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -252,7 +252,7 @@
         <mxCell id="n741ubfPJ3tw46yTXTQa-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="n741ubfPJ3tw46yTXTQa-48" target="n741ubfPJ3tw46yTXTQa-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n741ubfPJ3tw46yTXTQa-47" value="Policy without promotion code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n741ubfPJ3tw46yTXTQa-46">
+        <mxCell id="n741ubfPJ3tw46yTXTQa-47" value="Policy without/other promotion code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n741ubfPJ3tw46yTXTQa-46">
           <mxGeometry x="0.4197" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
