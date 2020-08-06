@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-06T06:31:17.994Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="altXwb4Wh65dCFoOktnH" version="13.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-08-06T06:32:34.234Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="CuiA9IJh6BT6OGFOWfbj" version="13.4.8" type="github">
   <diagram id="M3a05BpOKp6wVochIiBv" name="Page-1">
     <mxGraphModel dx="773" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="noanhydr59FI3f60KECd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;strokeColor=#666666;fontSize=9;" edge="1" parent="1" source="noanhydr59FI3f60KECd-59" target="noanhydr59FI3f60KECd-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="noanhydr59FI3f60KECd-59" value="cron job" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=9;align=center;" vertex="1" parent="1">
+        <mxCell id="noanhydr59FI3f60KECd-59" value="Script send file to GSSS via SFTP" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=9;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="1525" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noanhydr59FI3f60KECd-62" value="GSSS FTP" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=9;align=center;" vertex="1" parent="1">
