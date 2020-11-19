@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T04:22:21.686Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bUFZpqF0CL9WLME_HB8F" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T04:31:18.372Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FfrFkfzfsIIWX6h_WPVM" version="13.8.0" type="github">
   <diagram id="M3a05BpOKp6wVochIiBv" name="Page-1">
-    <mxGraphModel dx="1178" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,9 +160,6 @@
         </mxCell>
         <mxCell id="QIfrQBGiHI1CQpGKUu5z-5" value="Zip the TAR file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="1360" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QIfrQBGiHI1CQpGKUu5z-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/file-formats-10/614/20_-_CSV-128.png" vertex="1" parent="1">
-          <mxGeometry x="470" y="1280" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
