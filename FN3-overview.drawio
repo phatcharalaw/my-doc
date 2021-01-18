@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T03:42:43.861Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Q5MRruaIIzFCxc1d8W89" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T03:43:33.602Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XY6aLi2fsnx0VimOKjb_" version="14.2.3" type="github">
   <diagram id="_Qi5-8vMkDARBLpsw7g2" name="Page-1">
     <mxGraphModel dx="2264" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="fq4dfgVjbXa0ldg3vMH8-2" value="FastnetBridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="60" y="280" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fq4dfgVjbXa0ldg3vMH8-3" value="PolicyTransfer webservice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="fq4dfgVjbXa0ldg3vMH8-3" value="PolicyTransfer webservice (SOAP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fq4dfgVjbXa0ldg3vMH8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="fq4dfgVjbXa0ldg3vMH8-4" target="fq4dfgVjbXa0ldg3vMH8-10" edge="1">
@@ -341,6 +341,9 @@
         </mxCell>
         <mxCell id="icBUqmmYfPYapBOXNCrS-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;SOAP webservice&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="icBUqmmYfPYapBOXNCrS-5" value="Import Newb2c Policy (REST)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
