@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T07:22:51.392Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="kXTDSauxN1a2uu-F8Tl3" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T07:35:25.297Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="AL-XB18KvVk7QrqCKvwl" version="14.2.9" type="github">
   <diagram id="_Qi5-8vMkDARBLpsw7g2" name="Page-1">
-    <mxGraphModel dx="2870" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,10 +201,10 @@
         <mxCell id="fq4dfgVjbXa0ldg3vMH8-55" value="Partner&#39;s FTP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="fq4dfgVjbXa0ldg3vMH8-54" vertex="1">
           <mxGeometry y="35" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d4HiScYhIK8ZEe099J1S-2" value="Web&lt;br&gt;(RedHat on Linux)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="d4HiScYhIK8ZEe099J1S-2" value="Web&lt;br&gt;(RedHat)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-60" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d4HiScYhIK8ZEe099J1S-4" value="App&lt;br&gt;(RedHat on Linux)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="d4HiScYhIK8ZEe099J1S-4" value="App&lt;br&gt;(RedHat)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="670" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d4HiScYhIK8ZEe099J1S-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB570;fontSize=14;" parent="1" vertex="1">
